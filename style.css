@@ -27,7 +27,9 @@ z-index: 1;
     z-index: 2;
     display: inline-block;
 }
+.main_content_container{
 
+}
 
 .content{
 position: relative;
