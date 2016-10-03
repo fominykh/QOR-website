@@ -19,9 +19,9 @@ z-index: 1;
 .logo_container{
     background: white;
     position: absolute;
-    width: 175px;
-    top: 51;
-    left: 840px;
+    //width: 175px;
+    top: 40;
+    //left: 840px;
     margin-left: 8px;
     padding: 1em;
     z-index: 2;
