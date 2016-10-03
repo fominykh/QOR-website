@@ -107,6 +107,18 @@ ul {
   padding: 0 0 0 15px;
 }
 
+a:link{
+    color: #9ac400;
+}
+
+a:visited { 
+    color: #669900;
+}
+
+a:link:active, a:visited:active { 
+    color: #99cc99;
+}
+
 hr{
     border: 0;
     height: 1px;
