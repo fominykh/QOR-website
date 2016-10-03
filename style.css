@@ -16,15 +16,15 @@ margin: 0 auto;
 z-index: 1;
 }
 
-.left_container{    
-    float: right;
-    top: 40;    
+.left_container{
+    width: 260px;
+    float: left;    
     padding: 1em;
     z-index: 2;
     display: inline-block;
 }
-.right_content_container{
-
+.right_container{
+    float: right;
 }
 
 .content{
