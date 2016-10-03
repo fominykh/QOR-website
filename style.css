@@ -10,17 +10,16 @@ padding: 0;
 }
 
 .content_container{
-position: relative;
-max-width:840px;
-margin: 0 auto;
-z-index: 1;
+    overflow:auto;     
+    position: relative;
+    max-width:840px;
+    margin: 0 auto;    
 }
 
 .left_container{
     width: 260px;
     float: left;    
-    padding: 1em;
-    z-index: 2;
+    padding: 1em;    
     display: inline-block;
 }
 .right_container{
