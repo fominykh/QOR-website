@@ -16,13 +16,9 @@ margin: 0 auto;
 z-index: 1;
 }
 
-.logo_container{
-    background: white;
-    position: absolute;
-    //width: 175px;
-    top: 40;
-    left: -310px;
-    margin-right: 8px;
+.logo_container{    
+    float: right;
+    top: 40;    
     padding: 1em;
     z-index: 2;
     display: inline-block;
