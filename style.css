@@ -11,11 +11,15 @@ padding: 0;
 
 .content_container{
 position: relative;
-background: #F2F2F2;
 max-width:840px;
 margin: 0 auto;
 z-index: 1;
 }
+
+.column_container{
+
+}
+
 
 .content{
 position: relative;
