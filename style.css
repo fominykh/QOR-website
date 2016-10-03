@@ -10,13 +10,13 @@ html {
 }
 
 .content_container{
-    margin-left: 260px;
+    margin-left: 240px;
 }
 
 .left_container{
   float: left;
-  max-width: 260px;
-  margin-left: -260px;  
+  max-width: 240px;
+  margin-left: -240px;  
 }
 .right_container{
   float: right;
