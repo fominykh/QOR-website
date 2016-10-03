@@ -10,20 +10,19 @@ html {
 }
 
 .content_container{
-    overflow:auto;
-    width:100%;
-    margin: 0;
+    margin-left: 200px;
 }
 
 .left_container{
-    width: 260px;
-    float: left;    
-    padding: 1em;    
-    display: inline-block;
+  float: left;
+  width: 200px;
+  margin-left: -200px;
+  background-color: #FFA;
 }
 .right_container{
-    float: right;
-    display: inline-block;
+  float: right;
+  width: 100%;
+  background-color: #CCF;
 }
 
 .content{
